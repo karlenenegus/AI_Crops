@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197.2283mm"
+   height="160.97774mm"
+   viewBox="0 0 197.22831 160.97775"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="MLvsStats.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74742565"
+     inkscape:cx="199.35093"
+     inkscape:cy="247.51626"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="872.60962"
+       y="188.26582"
+       width="22.173523"
+       height="17.643753"
+       id="rect40545" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 84.657565 : 1"
+       inkscape:vp_y="0 : 1000.0002 : 0"
+       inkscape:vp_z="161.20705 : 84.657565 : 1"
+       inkscape:persp3d-origin="80.603529 : 59.2175 : 1"
+       id="perspective193982" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient162366">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop162362" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop162364" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient127378">
+      <stop
+         style="stop-color:#72008d;stop-opacity:1"
+         offset="0"
+         id="stop127374" />
+      <stop
+         style="stop-color:#0100fe;stop-opacity:1"
+         offset="0.77154219"
+         id="stop185672" />
+      <stop
+         style="stop-color:#0200a4;stop-opacity:1"
+         offset="1"
+         id="stop127376" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient10042">
+      <stop
+         style="stop-color:#c3003c;stop-opacity:1"
+         offset="0"
+         id="stop10038" />
+      <stop
+         style="stop-color:#1800e7;stop-opacity:0.99736857"
+         offset="1"
+         id="stop10040" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path144826" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path144808" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8343">
+      <stop
+         style="stop-color:#aaaaff;stop-opacity:1"
+         offset="0"
+         id="stop8339" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop8341" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6840">
+      <stop
+         style="stop-color:#ffaaaa;stop-opacity:1"
+         offset="0"
+         id="stop6836" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop6838" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158">
+      <circle
+         style="opacity:0.3;fill:#0000ff;stroke-width:0.264583"
+         id="circle160"
+         cx="89.565277"
+         cy="129.57294"
+         r="50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath158-9">
+      <circle
+         style="opacity:0.3;fill:#0000ff;stroke-width:0.264583"
+         id="circle160-6"
+         cx="89.565277"
+         cy="129.57294"
+         r="50" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8582">
+      <circle
+         style="opacity:0.3;fill:url(#linearGradient8586);fill-opacity:1;stroke:none;stroke-width:0.589066;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle8584"
+         cx="105.51231"
+         cy="324.11359"
+         r="49.705467"
+         transform="scale(-1,1)" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8343"
+       id="linearGradient8586"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(60.783086,143.17318)"
+       x1="-5.2707176"
+       y1="180.94043"
+       x2="94.469704"
+       y2="180.94043" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8582-1">
+      <circle
+         style="opacity:0.3;fill:url(#linearGradient8586);fill-opacity:1;stroke:none;stroke-width:0.589066;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle8584-8"
+         cx="105.51231"
+         cy="324.11359"
+         r="49.705467"
+         transform="scale(-1,1)" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask52099">
+      <circle
+         style="opacity:0.3;fill:url(#linearGradient52103);fill-opacity:1;stroke:none;stroke-width:0.589066;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle52101"
+         cx="89.472702"
+         cy="297.48627"
+         r="49.705467"
+         clip-path="none"
+         transform="scale(-1,1)" />
+    </mask>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8343"
+       id="linearGradient52103"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44.743478,116.54584)"
+       x1="-5.2707176"
+       y1="180.94043"
+       x2="94.469704"
+       y2="180.94043" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6840"
+       id="linearGradient55524"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,-356.91861,-494.91865)"
+       x1="-5.2707176"
+       y1="180.94043"
+       x2="94.469704"
+       y2="180.94043" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8343"
+       id="linearGradient55526"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7795276,0,0,3.7795276,134.03908,-496.00613)"
+       x1="-5.2707176"
+       y1="180.94043"
+       x2="94.469704"
+       y2="180.94043" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="490.95758"
+       height="376.81381"
+       patternTransform="translate(151.61312,979.36757)"
+       id="pattern55989">
+      <circle
+         style="opacity:0.3;fill:url(#linearGradient55524);fill-opacity:1;stroke:none;stroke-width:2.22639;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1954-8-3-7-1-6"
+         cx="-187.86319"
+         cy="188.95062"
+         r="187.86319"
+         transform="scale(-1,1)" />
+      <circle
+         style="opacity:0.3;fill:url(#linearGradient55526);fill-opacity:1;stroke:none;stroke-width:2.22639;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1954-8-3-7-1-9-0"
+         cx="303.09439"
+         cy="187.86319"
+         r="187.86319" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient162366"
+       id="linearGradient3477"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93841449,0,0,0.95995242,6.4586766,-44.189812)"
+       x1="36.56945"
+       y1="206.95369"
+       x2="166.46866"
+       y2="206.95369" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10042"
+       id="linearGradient3694"
+       x1="-610.90247"
+       y1="58.7719"
+       x2="-282.1763"
+       y2="58.7719"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24828882,0,0,0.2539874,220.98979,139.53414)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient127378"
+       id="linearGradient127380"
+       x1="-88.581596"
+       y1="101.64924"
+       x2="-13.790745"
+       y2="101.64924"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93841449,0,0,0.95995242,191.33265,56.554798)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath203869">
+      <ellipse
+         style="opacity:0.247203;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.00010736;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+         id="ellipse203871"
+         cx="242.21484"
+         cy="115.31705"
+         rx="29.541662"
+         ry="45.440716" />
+    </clipPath>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="219.0301"
+       height="343.48888"
+       patternTransform="translate(135.24357,42.784253)"
+       id="pattern204249">
+      <path
+         style="opacity:0.394181;vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.322e-05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+         d="m 253.54212,162.22221 c -19.63595,-2.81913 -36.18544,-19.5386 -39.05978,-39.13261 -2.9344,-16.85736 3.80768,-35.091682 17.41076,-45.588 6.39313,-5.040834 14.16043,-8.78928 22.35116,-9.350604 20.78521,2.18143 38.27529,20.309222 40.52585,40.958804 2.16941,16.19555 -4.39724,33.31941 -17.22422,43.5418 -6.48412,5.2166 -14.41968,9.08372 -22.79792,9.66204 l -0.60399,-0.0314 -0.60186,-0.0601 z"
+         id="path3535-1"
+         clip-path="url(#clipPath203869)"
+         transform="matrix(3.7795276,0,0,3.7795276,-808.0811,-264.09952)" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.409758,-78.103733)">
+    <path
+       style="opacity:0.813708;vector-effect:non-scaling-stroke;fill:url(#linearGradient127380);fill-opacity:1;stroke:#000000;stroke-width:4.39473e-05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="m 123.88352,104.97585 -7.92312,0.52616 -7.75399,1.55733 c 19.8124,-3.29091 41.09336,7.43825 49.72353,26.16619 9.93009,19.666 3.97016,45.81346 -13.4388,58.95855 -9.30725,7.34608 -21.40998,10.90624 -33.10887,9.59015 29.9344,7.6215 67.10274,-13.96947 67.00791,-47.73327 0.19726,-28.99782 -27.83171,-49.7209 -54.50666,-49.06511 z"
+       id="path21428-3"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="opacity:0.813708;vector-effect:non-scaling-stroke;fill:url(#linearGradient3694);fill-opacity:1;stroke:#000000;stroke-width:3.322e-05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="m 109.20719,201.46101 c -5.15255,-0.83611 -9.469163,-2.25971 -14.118903,-4.6563 -4.82838,-2.48866 -7.99024,-4.84434 -11.97003,-8.918 -4.20282,-4.30194 -7.18389,-8.66855 -9.46097,-13.85824 -3.89179,-8.86974 -5.07334,-18.26702 -3.48807,-27.7422 1.62433,-9.70869 6.09177,-18.51395 12.95451,-25.53313 3.87124,-3.95949 7.6083,-6.71741 12.29749,-9.07546 3.93362,-1.9781 7.700213,-3.28864 11.741503,-4.08531 1.74453,-0.3439 2.08206,-0.36271 3.32192,-0.18507 7.12222,1.02041 13.72222,3.57441 19.56759,7.57205 2.90485,1.98661 4.56259,3.37954 7.07086,5.94131 7.2885,7.44395 11.66615,16.36073 13.309,27.10888 0.41563,2.71921 0.42214,10.27242 0.0112,13.04024 -1.23588,8.32487 -4.40989,16.09813 -9.15914,22.431 -6.77988,9.04063 -16.66909,15.43714 -27.3708,17.70391 -2.28221,0.4834 -3.04933,0.52518 -4.70619,0.25632 z"
+       id="path3535"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path1954-8-3-7-1-9-3-2-3"
+       style="opacity:0.813708;vector-effect:non-scaling-stroke;fill:url(#linearGradient3477);fill-opacity:1;stroke:#000000;stroke-width:5.17772e-05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="m 162.67537,154.33778 a 46.644329,47.71488 0 0 1 -46.64433,47.71488 46.644329,47.71488 0 0 1 -46.644413,-47.71488 46.644329,47.71488 0 0 1 46.644413,-47.71487 46.644329,47.71488 0 0 1 46.64433,47.71487 z m -105.015653,0.27619 a 46.644329,47.71488 0 0 0 46.644313,47.71489 46.644329,47.71488 0 0 0 46.64435,-47.71489 46.644329,47.71488 0 0 0 -46.64435,-47.71486 46.644329,47.71488 0 0 0 -46.644313,47.71486 z"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="57.625526"
+       y="93.491669"
+       id="text62161"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan62159"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="57.625526"
+         y="93.491669">Statistics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="87.601669"
+       y="101.0109"
+       id="text62161-4"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan62159-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="87.601669"
+         y="101.0109">Statistical Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="122.88639"
+       y="93.491669"
+       id="text64607"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan64605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="122.88639"
+         y="93.491669">Machine Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;stroke-width:0.264583"
+       x="137.74966"
+       y="169.50406"
+       id="text71838"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan73483"
+         x="137.74966"
+         y="169.50406">Neural </tspan><tspan
+         sodipodi:role="line"
+         x="137.74966"
+         y="173.91379"
+         id="tspan79791">Networks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="132.37729"
+       y="97.353889"
+       id="text85177"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan85175"
+         style="stroke-width:0.264583"
+         x="132.37729"
+         y="97.353889">Goal: Prediction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="50.036705"
+       y="97.353889"
+       id="text86897"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan86895"
+         style="stroke-width:0.264583"
+         x="50.036705"
+         y="97.353889">Goal: Inference</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="33.557343"
+       y="225.11853"
+       id="text89211"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="33.557343"
+         y="225.11853"
+         id="tspan95725">Neural Networks: provide predictions but inferences are uninterpretable (i.e. blackbox)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="33.557343"
+         y="229.52824"
+         id="tspan95729">- More machine learning than statistics but some still consider it to be statistical learning</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="33.557343"
+         y="233.93796"
+         id="tspan104759" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="33.557343"
+         y="238.34767"
+         id="tspan104761">Model training is considered inferential statistics; model testing is predictive statistics</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="33.557343"
+         y="242.75739"
+         id="tspan119694" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="94.956146"
+       y="178.7858"
+       id="text102309"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="94.956146"
+         y="178.7858"
+         id="tspan102311">Decision</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="94.956146"
+         y="183.19551"
+         id="tspan102315">Trees</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="170.90804"
+       y="236.57106"
+       id="text109355"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan109353"
+         style="stroke-width:0.264583"
+         x="170.90804"
+         y="236.57106"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="146.35149"
+       y="136.87445"
+       id="text126489"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan126487"
+         style="stroke-width:0.264583"
+         x="146.35149"
+         y="136.87445">Deep </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="146.35149"
+         y="141.28416"
+         id="tspan126491">Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="119.36399"
+       y="153.55347"
+       id="text131943"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan131941"
+         style="stroke-width:0.264583"
+         x="119.36399"
+         y="153.55347">Support Vector </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="119.36399"
+         y="157.96318"
+         id="tspan139415">Machines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="79.511314"
+       y="166.01462"
+       id="text143325"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan143323"
+         style="stroke-width:0.264583"
+         x="79.511314"
+         y="166.01462">Logistic</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="79.511314"
+         y="170.42433"
+         id="tspan143327">Regression</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.457221;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 73.648995,212.73452 c 73.499255,0 73.499255,0 73.499255,0"
+       id="path144726"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="97.000076"
+       y="218.55168"
+       id="text148384"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan148382"
+         style="stroke-width:0.264583"
+         x="97.000076"
+         y="218.55168">Interpretability</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="113.58128"
+       y="171.47305"
+       id="text152522"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan152520"
+         style="stroke-width:0.264583"
+         x="113.58128"
+         y="171.47305">Random</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="113.58128"
+         y="175.88277"
+         id="tspan152524">Forests</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="106.85717"
+       y="133.59355"
+       id="text156986"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan156984"
+         style="stroke-width:0.264583"
+         x="106.85717"
+         y="133.59355">Bayesian</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="106.85717"
+         y="138.00327"
+         id="tspan156988">Networks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="48.620571"
+       y="151.69482"
+       id="text114015"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan114013"
+         style="stroke-width:0.264583"
+         x="48.620571"
+         y="151.69482">Descriptive </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="48.620571"
+         y="156.10454"
+         id="tspan116525">Statistics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="73.477348"
+       y="137.70448"
+       id="text77483"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan77481"
+         style="stroke-width:0.264583"
+         x="73.477348"
+         y="137.70448">Linear </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="73.477348"
+         y="142.1142"
+         id="tspan77485">Regression</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;inline-size:30.6008;stroke-width:0.264583"
+       x="174.84998"
+       y="147.42235"
+       id="text29733"
+       transform="translate(-6.4838385,7.0052304)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="174.84998"
+         y="147.42235"
+         id="tspan9518">User-specified </tspan><tspan
+         x="174.84998"
+         y="151.83207"
+         id="tspan9520">Rules-Based </tspan><tspan
+         x="174.84998"
+         y="156.24178"
+         id="tspan9522">Algorithms</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.409758,97.794564)"
+       id="text40543"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect40545)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="154.48747"
+       y="84.030884"
+       id="text48981"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/StatLearningVenn.png.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan48979"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="154.48747"
+         y="84.030884">Artificial Intelligence </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="154.48747"
+         y="88.264214"
+         id="tspan71647">Goal: mimic intelligent behaviors</tspan></text>
+  </g>
+</svg>

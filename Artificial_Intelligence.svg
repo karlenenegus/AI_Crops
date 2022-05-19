@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="590.32141mm"
+   height="591.26886mm"
+   viewBox="0 0 590.32141 591.26886"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Artificial_Intelligence.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.26425487"
+     inkscape:cx="147.58479"
+     inkscape:cy="707.65016"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="1578.5352"
+       y="2016.0635"
+       width="222.87157"
+       height="30.684989"
+       id="rect509047" />
+    <rect
+       x="1299.9433"
+       y="2096.2394"
+       width="35.063676"
+       height="15.045553"
+       id="rect465083" />
+    <rect
+       x="2973.4519"
+       y="2529.8644"
+       width="3135.8603"
+       height="2135.2808"
+       id="rect9331" />
+    <marker
+       style="overflow:visible"
+       id="marker237915"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237913" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237905"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237903" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237744"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237742" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237734"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237732" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1055" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1058" />
+    </marker>
+    <rect
+       x="-163.50053"
+       y="588.03387"
+       width="0"
+       height="20.045261"
+       id="rect203171" />
+    <rect
+       x="1690.6534"
+       y="481.79965"
+       width="428.95572"
+       height="200.22372"
+       id="rect75647" />
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1049" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path1052" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1040" />
+    </marker>
+    <rect
+       x="1728.0865"
+       y="256.9808"
+       width="68.024506"
+       height="46.651585"
+       id="rect932765" />
+    <rect
+       x="1327.0322"
+       y="278.2883"
+       width="480.92288"
+       height="659.67828"
+       id="rect904497" />
+    <rect
+       x="2606.1833"
+       y="647.92206"
+       width="13.34594"
+       height="48.131844"
+       id="rect836785" />
+    <rect
+       x="1636.8992"
+       y="1769.2083"
+       width="490.27856"
+       height="75.830437"
+       id="rect820767" />
+    <rect
+       x="1766.0886"
+       y="1069.3141"
+       width="0.73263931"
+       height="50.896259"
+       id="rect722721" />
+    <marker
+       style="overflow:visible"
+       id="marker237915-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237913-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237744-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237742-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237744-5-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237742-9-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237915-1-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237913-1-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237744-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237742-9-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker237915-1-33"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path237913-1-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(12.627294,87.720934)">
+    <text
+       xml:space="preserve"
+       style="font-size:15.5222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="17.146648"
+       y="48.842422"
+       id="text2697"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2695"
+         style="font-size:15.5222px;stroke-width:0.264583"
+         x="17.146648"
+         y="48.842422">Artificial Inteligence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.4056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="-13.942981"
+       y="77.642067"
+       id="text5329"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan5327"
+         style="font-size:13.4056px;stroke-width:0.264583"
+         x="-13.942981"
+         y="77.642067">Rules-Based</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.4056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="114.49863"
+       y="77.850975"
+       id="text6983"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan6981"
+         style="font-size:13.4056px;stroke-width:0.264583"
+         x="114.49863"
+         y="77.850975">Learning-Based</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.4056px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="217.32382"
+       y="96.268692"
+       id="text11577"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan11575"
+         style="font-size:13.4056px;stroke-width:0.264583"
+         x="217.32382"
+         y="96.268692">Machine Learning</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:71.7002;stroke-width:0.264583"
+       x="25.33996"
+       y="103.02945"
+       id="text134001"
+       transform="translate(-38.311648,-3.0364003)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="25.33996"
+         y="103.02945"
+         id="tspan556263">- Decision Trees 
+</tspan><tspan
+         x="25.33996"
+         y="111.8489"
+         id="tspan556265">(when conditionals </tspan><tspan
+         x="25.33996"
+         y="120.66835"
+         id="tspan556267">are user specified)
+</tspan><tspan
+         x="25.33996"
+         y="129.4878"
+         id="tspan556269">- Pathfinding </tspan><tspan
+         x="25.33996"
+         y="138.30724"
+         id="tspan556271">algorithms </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="256.58618"
+       y="344.75961"
+       id="text216837"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan216835"
+         style="font-weight:bold;font-size:9.17222px;stroke-width:0.264583"
+         x="256.58618"
+         y="344.75961">Neural Networks</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="-13.092382"
+       y="90.322311"
+       id="text231361"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan231359"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="-13.092382"
+         y="90.322311">Simplest form of AI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:103.674;stroke-width:0.264583"
+       x="358.08749"
+       y="135.03047"
+       id="text256225"
+       transform="translate(-208.73319,16.933332)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="358.08749"
+         y="135.03047"
+         id="tspan556273">Implicit feedback since correct </tspan><tspan
+         x="358.08749"
+         y="142.96798"
+         id="tspan556275">responses are rewarded</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237905)"
+       d="m 254.98372,247.68907 0.0507,62.46215 41.09187,16.15412 0.002,8.46326"
+       id="path304602"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237905)"
+       d="m 354.70005,247.68903 -0.10736,62.31446 -33.51387,16.4973 0.14035,8.00529"
+       id="path304604"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237905)"
+       d="m 142.85229,247.689 0.0559,62.49245 136.36655,16.26756 0.0158,8.23543"
+       id="path304604-3"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="280.3804"
+       y="361.54459"
+       id="text388470"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan388468"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="280.3804"
+         y="361.54459">Layers</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#b3b3b3;stroke-width:0.350541"
+       id="rect670852-0"
+       width="94.139"
+       height="19.967518"
+       x="318.39432"
+       y="348.50714"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:111.436;stroke-width:0.264583"
+       x="489.04559"
+       y="336.47003"
+       id="text487096"
+       transform="translate(-169.29099,15.115212)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="489.04559"
+         y="336.47003"
+         id="tspan556277">- All NN have input and output layers
+</tspan><tspan
+         x="489.04559"
+         y="341.76168"
+         id="tspan556279">- Layers are made up of nodes 
+</tspan><tspan
+         x="489.04559"
+         y="347.05334"
+         id="tspan556281">- Shallow NN require more nodes per layer 
+</tspan><tspan
+         x="489.04559"
+         y="352.34499"
+         id="tspan556283">than Deep NN to be effective</tspan></text>
+    <rect
+       style="opacity:0.5;fill:#b3b3b3;stroke-width:0.264583"
+       id="rect670852"
+       width="106.62577"
+       height="10.043322"
+       x="138.90224"
+       y="337.18301"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:106.206;fill:#000000;stroke-width:0.264583"
+       x="369.20392"
+       y="288.05377"
+       id="text641704"
+       transform="translate(-232.13092,52.229825)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="369.20392"
+         y="288.05377"
+         id="tspan556285">Neural Networks can implement all feedback </tspan><tspan
+         x="369.20392"
+         y="293.34542"
+         id="tspan556287">types; at a minimum usually a supervised system</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52589023,29.482876)"
+       id="text722719"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect722721)" />
+    <rect
+       style="fill:#333333;stroke-width:0.289044"
+       id="rect564106"
+       width="32.383434"
+       height="9.2281313"
+       x="28.656771"
+       y="386.08838" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="33.76688"
+       y="405.14307"
+       id="text313750"><tspan
+         sodipodi:role="line"
+         id="tspan313748"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="33.76688"
+         y="405.14307">Shallow</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="33.76688"
+         y="414.31528"
+         id="tspan353236">- 1-2 intermediate (hidden) layers</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="33.76688"
+         y="423.48752"
+         id="tspan363408">Deep</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="33.76688"
+         y="432.65973"
+         id="tspan365768">- &gt;2 intermediate layers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="33.471287"
+       y="425.66519"
+       id="text316856"><tspan
+         sodipodi:role="line"
+         id="tspan316854"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="33.471287"
+         y="425.66519" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="29.179621"
+       y="393.33276"
+       id="text426166"><tspan
+         sodipodi:role="line"
+         id="tspan426164"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="29.179621"
+         y="393.33276">Number </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="33.62389"
+       y="436.37241"
+       id="text555438"><tspan
+         sodipodi:role="line"
+         id="tspan555436"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="33.62389"
+         y="436.37241" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="33.59634"
+       y="414.07227"
+       id="text562868"><tspan
+         sodipodi:role="line"
+         id="tspan562866"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="33.59634"
+         y="414.07227" /></text>
+    <rect
+       style="fill:#333333;stroke-width:0.299249"
+       id="rect564106-9"
+       width="34.710541"
+       height="9.2281313"
+       x="153.44414"
+       y="386.08838" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="153.967"
+       y="393.33276"
+       id="text426166-0"><tspan
+         sodipodi:role="line"
+         id="tspan426164-8"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="153.967"
+         y="393.33276">Function</tspan></text>
+    <rect
+       style="fill:#333333;stroke-width:0.25982"
+       id="rect564106-9-6"
+       width="26.166304"
+       height="9.2281313"
+       x="433.18893"
+       y="386.08838" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="433.71182"
+       y="393.33276"
+       id="text426166-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan426164-8-8"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="433.71182"
+         y="393.33276">Output</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="432.17276"
+       y="407.13022"
+       id="text594128-4"><tspan
+         sodipodi:role="line"
+         id="tspan594126-8"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="432.17276"
+         y="407.13022">Deterministic:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="432.17276"
+         y="416.72275"
+         id="tspan480075">- outputs only most likely class</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="432.17276"
+         y="427.41495"
+         id="tspan479041">Probabilistic (Stochastic):</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="432.17276"
+         y="437.00748"
+         id="tspan477545">- outputs probabilities for each class; </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="432.17276"
+         y="445.82693"
+         id="tspan45944">provides representation of uncertainty</tspan></text>
+    <rect
+       style="fill:#333333;stroke-width:0.183096"
+       id="rect573954"
+       width="29.219999"
+       height="8.8280001"
+       x="287.61215"
+       y="386.08838" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="288.63297"
+       y="392.44885"
+       id="text464792"><tspan
+         sodipodi:role="line"
+         id="tspan464790"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="288.63297"
+         y="392.44885">Training</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.76111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:135.186;stroke-width:0.264583"
+       x="504.94769"
+       y="396.0246"
+       id="text512068"
+       transform="translate(-217.14342,8.636654)"><tspan
+         x="504.94769"
+         y="396.0246"
+         id="tspan556291"><tspan
+           style="font-size:9.17222px"
+           id="tspan556289">Static: non-adaptive
+</tspan></tspan><tspan
+         x="504.94769"
+         y="407.48987"
+         id="tspan556297"><tspan
+           style="font-size:6.35px"
+           id="tspan556293">-</tspan><tspan
+           style="font-size:9.17222px"
+           id="tspan556295">
+</tspan></tspan><tspan
+         x="504.94769"
+         y="418.95514"
+         id="tspan556303"><tspan
+           style="font-size:9.17222px"
+           id="tspan556299">Dynamic: adaptive</tspan><tspan
+           style="font-weight:bold"
+           id="tspan556301">
+</tspan></tspan><tspan
+         x="504.94769"
+         y="429.17191"
+         id="tspan556309">-<tspan
+   style="font-weight:bold"
+   id="tspan556305"> Feedforward</tspan>:<tspan
+   style="font-size:6.35px"
+   id="tspan556307"> input signals are fed </tspan></tspan><tspan
+         x="504.94769"
+         y="438.87329"
+         id="tspan556313"><tspan
+   style="font-size:6.35px"
+   id="tspan556311">unidirectionally to output</tspan>
+</tspan><tspan
+         x="504.94769"
+         y="448.57468"
+         id="tspan556319">- <tspan
+   style="font-weight:bold"
+   id="tspan556315">Output feedback</tspan>: <tspan
+   style="font-size:6.35px"
+   id="tspan556317">output signals </tspan></tspan><tspan
+         x="504.94769"
+         y="458.27606"
+         id="tspan556323"><tspan
+   style="font-size:6.35px"
+   id="tspan556321">are fed back to a previous layer </tspan>
+</tspan><tspan
+         x="504.94769"
+         y="467.97745"
+         id="tspan556327">- <tspan
+   style="font-weight:bold"
+   id="tspan556325">State feedback</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;inline-size:133.573;stroke-width:0.264583"
+       x="99.685417"
+       y="419.38953"
+       id="text7346"
+       transform="translate(51.378191,-14.75509)"><tspan
+         x="99.685417"
+         y="419.38953"
+         id="tspan556329">Convolutional:
+</tspan><tspan
+         x="99.685417"
+         y="428.56172"
+         id="tspan556333"><tspan
+           style="font-size:6.35px"
+           id="tspan556331">- learning layer; updates weights
+</tspan></tspan><tspan
+         x="99.685417"
+         y="437.73394"
+         id="tspan556337"><tspan
+           style="font-size:6.35px"
+           id="tspan556335">- nodes within layers: kernals; not </tspan></tspan><tspan
+         x="99.685417"
+         y="446.90615"
+         id="tspan556341"><tspan
+   style="font-size:6.35px"
+   id="tspan556339">neurons</tspan>
+</tspan><tspan
+         x="99.685417"
+         y="456.07836"
+         id="tspan556343">Pooling:
+</tspan><tspan
+         x="99.685417"
+         y="465.25057"
+         id="tspan556347"><tspan
+           style="font-size:6.35px"
+           id="tspan556345">- non-learning layer; applies functions </tspan></tspan><tspan
+         x="99.685417"
+         y="474.42278"
+         id="tspan556351"><tspan
+   style="font-size:6.35px"
+   id="tspan556349">(often dimensionality reduction)</tspan>
+</tspan><tspan
+         x="99.685417"
+         y="483.59499"
+         id="tspan556353">Fully-connected:
+</tspan><tspan
+         x="99.685417"
+         y="492.7672"
+         id="tspan556357"><tspan
+   style="font-size:6.35px"
+   id="tspan556355">-</tspan>
+</tspan><tspan
+         x="99.685417"
+         y="501.93941"
+         id="tspan556359">Dense:
+</tspan><tspan
+         x="99.685417"
+         y="511.11162"
+         id="tspan556363"><tspan
+           style="font-size:6.35px"
+           id="tspan556361">-</tspan></tspan></text>
+    <rect
+       style="fill:#333333;stroke-width:0.155324"
+       id="rect573954-8"
+       width="21.558001"
+       height="8.6110001"
+       x="-1.0418198"
+       y="525.22858" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="-0.021060288"
+       y="531.37207"
+       id="text464792-8"><tspan
+         sodipodi:role="line"
+         id="tspan464790-9"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="-0.021060288"
+         y="531.37207">Types</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52589023,29.482876)"
+       id="text820765"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect820767)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52589023,29.482876)"
+       id="text836783"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect836785)" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="22.687616"
+       y="-68.394417"
+       id="text891433"><tspan
+         sodipodi:role="line"
+         id="tspan891431"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="22.687616"
+         y="-68.394417"><tspan
+   style="font-size:8.46667px"
+   id="tspan926591">Weights:</tspan> </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="22.687616"
+         y="-56.929142"
+         id="tspan921433"><tspan
+           style="font-size:7.05556px"
+           id="tspan921435">- numeric values that inputs are mutiplied by</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52589023,29.482876)"
+       id="text904495"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect904497)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,0.52589023,29.482876)"
+       id="text932763"
+       style="font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect932765)"><tspan
+         x="1728.0859"
+         y="339.02344"
+         id="tspan556367"><tspan
+           dx="0 31.484375 15.683594 25.351562 24.609375"
+           id="tspan556365">Other</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="18.412813"
+       y="-79.680107"
+       id="text935299"><tspan
+         sodipodi:role="line"
+         id="tspan935297"
+         style="stroke-width:0.264583"
+         x="18.412813"
+         y="-79.680107">Other</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="453.23361"
+       y="228.2764"
+       id="text966556"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="453.23361"
+         y="228.2764"
+         id="tspan966558" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915)"
+       d="m 89.85771,51.859784 -64.195959,7.234459 0.06202,6.24311"
+       id="path386"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915)"
+       d="m 89.85771,51.859784 58.60062,5.567053 0.0868,6.467969"
+       id="path388"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915)"
+       d="m 274.73132,113.42106 20.5334,13.58991 0.0117,6.57725"
+       id="path392"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915)"
+       d="m 274.73132,113.42106 100.56808,12.44574 0.13758,6.5524"
+       id="path394"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 375.47335,106.42695 Z"
+       id="path396"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#333333;stroke-width:0.241782"
+       id="rect563908"
+       width="57.910183"
+       height="8.4572182"
+       x="242.27132"
+       y="102.75991"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="243.5876"
+       y="109.0535"
+       id="text239305"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan239303"
+         style="font-size:7.05556px;fill:#ffffff;stroke-width:0.264583"
+         x="243.5876"
+         y="109.0535">Feedback types</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915)"
+       d="m 274.73132,113.42106 -63.80014,13.18614 -0.01,7.74686"
+       id="path390"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:0;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:82.9772;stroke-width:0.264583"
+       x="233.8329"
+       y="164.29097"
+       id="text39753"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="translate(30.162494,20.637499)"><tspan
+         x="233.8329"
+         y="164.29097"
+         id="tspan556373"><tspan
+           style="font-weight:bold"
+           id="tspan556369">Clustering:</tspan><tspan
+           style="line-height:1.25"
+           id="tspan556371">
+</tspan></tspan><tspan
+         x="233.8329"
+         y="173.88349"
+         id="tspan556377"><tspan
+           style="font-size:7.05556px;line-height:1.25"
+           id="tspan556375">- 
+</tspan></tspan><tspan
+         x="233.8329"
+         y="181.28493"
+         id="tspan556381"><tspan
+           style="font-size:6.35px;line-height:1"
+           id="tspan556379">Examples:
+</tspan></tspan><tspan
+         x="233.8329"
+         y="187.63494"
+         id="tspan556385"><tspan
+           style="font-size:6.35px;line-height:1"
+           id="tspan556383">- K-Means Clustering
+</tspan></tspan><tspan
+         x="233.8329"
+         y="193.98494"
+         id="tspan556389"><tspan
+           style="font-size:6.35px;line-height:1"
+           id="tspan556387">- Principal Component </tspan></tspan><tspan
+         x="233.8329"
+         y="200.33495"
+         id="tspan556393"><tspan
+           style="font-size:6.35px;line-height:1"
+           id="tspan556391">Analysis
+</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="264.43878"
+       y="249.8488"
+       id="text41143"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan41141"
+         style="font-weight:bold;font-size:9.17222px;stroke-width:0.264583"
+         x="264.43878"
+         y="249.8488">Association</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="264.43878"
+         y="259.02103"
+         id="tspan157271">- </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="264.43878"
+         y="268.19324"
+         id="tspan198351">Examples:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="264.43878"
+         y="277.36545"
+         id="tspan198353">- </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:0;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;inline-size:83.3649;stroke-width:0.264583"
+       x="146.51129"
+       y="163.15646"
+       id="text48023"
+       transform="translate(87.781103,13.758336)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:87.5787;stroke-width:0.264583"
+       x="129.29106"
+       y="140.02904"
+       id="text247849"
+       transform="translate(103.92546,-8.7027325)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="opacity:0.5;fill:#b3b3b3;stroke-width:0.37847"
+       id="rect670852-4"
+       width="100.11216"
+       height="21.887218"
+       x="275.30447"
+       y="55.649933"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:106.206;fill:#000000;stroke-width:0.264583"
+       x="369.20392"
+       y="288.05377"
+       id="text641704-8"
+       transform="translate(-92.931919,-229.1833)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="369.20392"
+         y="288.05377"
+         id="tspan556395">Unsupervised methods are not generally </tspan><tspan
+         x="369.20392"
+         y="293.34542"
+         id="tspan556397">implimented for genomic selection because </tspan><tspan
+         x="369.20392"
+         y="298.63708"
+         id="tspan556399">prediction cannot be evaluated without input-</tspan><tspan
+         x="369.20392"
+         y="303.92873"
+         id="tspan556401">response pairs</tspan></text>
+    <g
+       id="g296706"
+       transform="translate(12.700002)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237744-5)"
+         d="m 136.3681,138.49575 h -6.21814 v 42.27688 h 6.40057"
+         id="path1264-8"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915-1)"
+         d="M 130.15222,180.70978 V 247.689 h 5.45886 l 1.17181,0.0311"
+         id="path1266-4"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g296702"
+       transform="translate(0,-0.38689)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237744-5-8)"
+         d="m 261.1996,138.88264 h -6.21814 v 42.27695 h 6.40057"
+         id="path1264-8-8"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915-1-3)"
+         d="m 254.98372,181.09674 v 66.97922 h 5.45886 l 1.17181,0.0311"
+         id="path1266-4-9"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#marker237744)"
+       d="m 178.20506,384.44924 0.0555,-5.37978 116.12223,-12.73463 5.63535,10.10033 0.0653,6.85271"
+       id="path1437"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237744)"
+       d="m 294.38274,366.33483 -246.715838,12.31258 0.0039,6.19141"
+       id="path2009"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237744)"
+       d="m 294.38274,366.33483 149.81058,12.37115 0.0971,5.58396"
+       id="path50685"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g555993">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+         x="149.00795"
+         y="144.28421"
+         id="text22587"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"><tspan
+           sodipodi:role="line"
+           id="tspan22585"
+           style="font-weight:bold;stroke-width:0.264583"
+           x="149.00795"
+           y="144.28421">Reinforcement</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:83.382;stroke-width:0.264583"
+         x="233.4281"
+         y="122.62098"
+         id="text18763"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(30.162494,20.637499)"><tspan
+           x="233.4281"
+           y="122.62098"
+           id="tspan556407"><tspan
+             style="font-weight:bold"
+             id="tspan556403">Unsupervised</tspan><tspan
+             style="line-height:1"
+             id="tspan556405">
+</tspan></tspan><tspan
+           x="233.4281"
+           y="129.98796"
+           id="tspan556411"><tspan
+             style="font-size:6.35px;line-height:1"
+             id="tspan556409">- No feedback since no </tspan></tspan><tspan
+           x="233.4281"
+           y="136.33797"
+           id="tspan556415"><tspan
+             style="font-size:6.35px;line-height:1"
+             id="tspan556413">input-response pairs</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:0;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:99.3591;stroke-width:0.264583"
+         x="334.34174"
+         y="122.62098"
+         id="text20537"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         transform="translate(30.162494,20.637499)"><tspan
+           x="334.34174"
+           y="122.62098"
+           id="tspan556421"><tspan
+             style="font-weight:bold"
+             id="tspan556417">Supervised</tspan><tspan
+             style="line-height:1"
+             id="tspan556419">
+</tspan></tspan><tspan
+           x="334.34174"
+           y="129.98796"
+           id="tspan556427"><tspan
+             style="font-size:6.35px"
+             id="tspan556423">- </tspan><tspan
+             style="font-size:6.35px;line-height:1"
+             id="tspan556425">Explicit feedback since </tspan></tspan><tspan
+           x="334.34174"
+           y="136.33797"
+           id="tspan556431"><tspan
+             style="font-size:6.35px;line-height:1"
+             id="tspan556429">specified input-response pairs
+</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="364.30127"
+       y="184.92838"
+       id="text27715"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan27713"
+         style="font-weight:bold;font-size:9.17222px;stroke-width:0.264583"
+         x="364.30127"
+         y="184.92838">Regression: </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="364.30127"
+         y="194.1006"
+         id="tspan107783">- Continuous data</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.30127"
+         y="203.27281"
+         id="tspan113851">Examples:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.30127"
+         y="212.44504"
+         id="tspan113853">- Linear Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.30127"
+         y="221.61725"
+         id="tspan113855">- Decision trees (Regression Trees)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.30127"
+         y="230.78947"
+         id="tspan113857">- Random Forest (from Regression Trees)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.30127"
+         y="239.9617"
+         id="tspan113859">- Support Vector Machines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1;font-family:sans-serif;letter-spacing:0px;stroke-width:0.264583"
+       x="364.68643"
+       y="251.43629"
+       id="text30953"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan30951"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="364.68643"
+         y="251.43629"><tspan
+   style="font-weight:bold"
+   id="tspan267593">Classification:</tspan> </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="364.68643"
+         y="260.60852"
+         id="tspan131777">- Discreet data</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.68643"
+         y="269.78076"
+         id="tspan135457">Examples:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.68643"
+         y="278.95297"
+         id="tspan135459">- Logistic Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.68643"
+         y="288.12518"
+         id="tspan135461">- Decision Trees (Conditional Trees)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.68643"
+         y="297.29742"
+         id="tspan135463">- Random Forest (from Conditional Trees)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;stroke-width:0.264583"
+         x="364.68643"
+         y="306.46964"
+         id="tspan135465">- Support Vector Machines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;inline-size:114.272;stroke-width:0.264583"
+       x="260.31845"
+       y="163.86032"
+       id="text67399"
+       transform="translate(74.741677,13.054478)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;inline-size:114.699;stroke-width:0.264583"
+       x="261.7771"
+       y="213.81151"
+       id="text94933"
+       transform="translate(73.282692,24.314663)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;inline-size:115.133;stroke-width:0.264583"
+       x="234.97379"
+       y="135.03047"
+       id="text251381"
+       transform="translate(99.466343,-3.7041668)"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,17.267916,37.049189)"
+       id="text75645"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect75647)" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="512.65826"
+       y="141.2711"
+       id="text77501"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan77499"
+         style="font-weight:bold;font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="141.2711">Linear Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="150.09055"
+         id="tspan125051">Linear Mixed Models</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="158.91"
+         id="tspan83283">- BLUP</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="167.72945"
+         id="tspan83285">- GBLUP</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="176.5489"
+         id="tspan83287">Baysian Linear Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="185.36835"
+         id="tspan91149">- Baysian Ridge Regression</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="194.18781"
+         id="tspan91151">- Baysian GBLUP</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="203.00725"
+         id="tspan91153">- Bayes A</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="211.82671"
+         id="tspan91155">- Bayes B</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="220.64615"
+         id="tspan91157">- Bayes C</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="229.46561"
+         id="tspan93073">- Baysian Lasso</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         x="512.65826"
+         y="238.28505"
+         id="tspan80239" /></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,17.267916,37.049189)"
+       id="text203169"
+       style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect203171)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 481.94789,211.1206 21.98596,-72.06158 6.43546,0.0446"
+       id="path237544"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.627294,-87.720934)"
+       id="text9329"
+       style="line-height:1.25;font-family:sans-serif;font-size:13.33333333px;letter-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect9331)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 482.30196,211.36426 H 439.03348"
+       id="path1792" />
+    <g
+       id="g296698"
+       transform="translate(0,-0.59123)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237744-5-6)"
+         d="m 360.91593,139.08698 h -6.21814 v 42.27691 h 6.40057"
+         id="path1264-8-86"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.749999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker237915-1-33)"
+         d="m 354.70005,181.30104 v 66.97922 h 5.45886 l 1.17181,0.0311"
+         id="path1266-4-0"
+         inkscape:export-filename="/home/karlene/Desktop/AI_Crops/AI.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:9.17222px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;stroke-width:0.264583"
+       x="28.111267"
+       y="542.17822"
+       id="text325080"><tspan
+         sodipodi:role="line"
+         id="tspan325078"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="542.17822">Convolutional neural networks:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="553.64349"
+         id="tspan325808">- generally deep</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="565.10876"
+         id="tspan327488">- convolutional layers</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="576.57404"
+         id="tspan403638" /><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="588.03931"
+         id="tspan326260">Multilayer perceptron:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="599.50458"
+         id="tspan326262">- shallow</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="610.96985"
+         id="tspan331870">- feedforward dynamic training</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="622.43512"
+         id="tspan418934"></tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="633.90045"
+         id="tspan418936">Hopfield network/Elman network</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="645.36572"
+         id="tspan448655">- shallow</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:9.17222px;stroke-width:0.264583"
+         x="28.111267"
+         y="656.83099"
+         id="tspan448657">- output feedback </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.627294,-87.720934)"
+       id="text465081"
+       style="line-height:1.25;font-family:sans-serif;font-size:13.33333333px;letter-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect465083)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.627294,-87.720934)"
+       id="text509045"
+       style="line-height:1.25;font-family:sans-serif;font-size:13.33333333px;letter-spacing:0px;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;shape-inside:url(#rect509047)" />
+  </g>
+</svg>
