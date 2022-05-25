@@ -259,6 +259,19 @@ when ordinal data can be coded as numbers as in the case of stages of drought re
 Linear mixed models are flexible extensions of linear models in which fixed and random effects enter linearly into the model. Useful to model repeated, longitudinal, or clustered observations, in which random effects are introduced to help capture correlation or/and random variation among observations in the same group of individuals
 
 There's an increasing number of applications of this model in genomic selection for plant and animal breeding, where molecular markers obtained by genotyping-by-sequencing or other technologies are used to predict breeding values  for non-phenotyped lines to select candidate lines prior to phenotypic evaluation.
+
+...
+
+### Chapter 10 - FUndamentals of Artificial Neural Networks and Deep learning
+
+...
+
+### Multitrait machine- and deep-learning models for genomic selection using spectral information
+[(Sandhu et al 2021)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20119)
+
+...
+
+
 ### Read:  
 
 Heffner et al 2009
