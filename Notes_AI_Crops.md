@@ -262,7 +262,7 @@ There's an increasing number of applications of this model in genomic selection 
 
 ...
 
-### Chapter 10 - FUndamentals of Artificial Neural Networks and Deep learning
+### Chapter 10 - Fundamentals of Artificial Neural Networks and Deep learning
 
 ...
 
@@ -271,6 +271,9 @@ There's an increasing number of applications of this model in genomic selection 
 
 ...
 
+### Figure Ideas:
+
+[Crop Improvement Pipeline & ML applications](https://www.nature.com/articles/s41573-019-0024-5)
 
 ### Read:  
 
@@ -285,8 +288,7 @@ Methods:
 [(Sandhu et al. 2021)](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20119)
 [(Tong et al. 2021)](https://www.sciencedirect.com/science/article/pii/S0176161720302443?via%3Dihub)
 - Regression
-  - Linear mixed models
-    - rrBLUP
+  - rrBLUP
   - GBLUP
   - Bayes A, B, C, Cpi
   - LASSO
@@ -312,4 +314,12 @@ Methods:
   - radial basis function neural network (SVM use radial basis functions?)
 
 
-### Outline
+### Email
+
+Hello Rita, 
+
+I'm a graduate student in Dr. Jianming Yu's lab and I'm looking place a laptop order. I was told you should be able to help coordinate that. If that is the case, I was wondering if you could provide me with any details as to how I might proceed with that process.
+
+Thanks for your help,
+
+Karlene Negus
