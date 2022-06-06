@@ -1,0 +1,15 @@
+pandoc writing_AI_Crops.md -F pandoc-fignos --citeproc --toc --standalone -o writing_AI_Crops.pdf
+## include table of contents (toc), header (standalone), figure formatting (pandoc-fignos), citation formatting (--citproc)
+
+1
+
+Installed 
+- pandoc
+- miktex
+- pandoc-fignos (https://github.com/tomduck/pandoc-fignos) (add to PATH)
+
+atom packages
+ - autocomplete-bibtex
+ - language-markdown
+ - markdown-preview-plus
+ - autosave

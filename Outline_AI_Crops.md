@@ -5,9 +5,15 @@ Crop Improvement = Achieving Productivity
     - Conventional breeding
       - hybrid adaptation in 1930s [@Duvick2005]
       - phenotyping + selection
+        - conventional breeding
+        - traditional phenotyping
       - phenotyping + genotyping + selection
-      - design + phenotyping + genotyping + envirotyping + selection
+        - start of "big data" with NGS
+        - QTL & GWAS
+        - Problems: HTP & GxE
+      - phenotyping + genotyping + selection
   - Today
+    - design + phenotyping + genotyping + envirotyping + selection
     - Physiological breeding
       - Crop Design
         - Designing plants that optimize cropping systems
@@ -23,6 +29,7 @@ Crop Improvement = Achieving Productivity
         - Keywords: HTP, Molecular Phenomics, Imaging-based Phenomics, function-valued traits (require parallel enviromics)
       - Genetic analysis
         - Keywords: Genomics
+      - Evaluation of Gain (mulit-environment testing)
       - Crossing & selection
         - GS (prediction/extrapolation)
           - multi-trait models
@@ -36,7 +43,7 @@ Crop Improvement = Achieving Productivity
         - Rice HTP [@Yang2014]
         - Phenomics Review [@Furbank2011]
         - Image-based phenotyping review [@Fahlgren2015]
-        - [Image HTP software 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.01190/full)
+        - Image HTP software [@Ubbens2017]
       - simple traits of high heritability have been addressed - need to address/break down complex traits
       - climate change - need to consider environment more
       - effectively applying genome editing
@@ -53,7 +60,7 @@ Crop Improvement = Achieving Productivity
             - Regression
             - Classification
           - Neural Networks
-            - Deep Learning ([Review Nature 2015](https://www.nature.com/articles/nature14539))
+            - Deep Learning ([Review Nature 2015](https://www.nature.com/articles/nature14539)) [@Lecun2015]
 - How AI/ML can be used to help address issues
 
   ML can generate data that is *new, numerous, precise, and/or predicted*
@@ -74,9 +81,9 @@ Crop Improvement = Achieving Productivity
     - **Enviromics**
     - Crossing & selection (**Genomic Selection**)
       - GS
-        - Bayes B, Bayesian LASSO, RR-BLUP, partial least squares regression (PLS), sparse PLS ([GS wheat 2015](https://academic.oup.com/g3journal/article/5/10/1991/6028908))
-        - RR-BLUP, BayesA, Bayes Cpi, Baysian LASSO ([GS Loblolly pine 2012](https://pubmed.ncbi.nlm.nih.gov/22271763/))
-        - radial basis function neural networks ([GS Example 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3405257/))
+        - Bayes B, Bayesian LASSO, RR-BLUP, partial least squares regression (PLS), sparse PLS (GS wheat [@Thavamanikumar2015])
+        - RR-BLUP, BayesA, Bayes Cpi, Baysian LASSO (GS Loblolly pine 2012 [@Resende2012])
+        - radial basis function neural networks (GS Example 2012 [@Gonzalez-Camacho2012])
     - ? Genetic gain evaluation
 
 
