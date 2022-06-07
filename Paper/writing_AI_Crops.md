@@ -6,7 +6,7 @@ author:
   email: knegus@iastate.edu
 date: June 2022
 abstract: "Lorem ipsum dolor sit amet."
-bibliography: "library.bib"
+bibliography: "../../Grad_ISU/library.bib"
 link-citations: true
 link-bibliography: true
 geometry: margin = 1in
@@ -45,13 +45,23 @@ The "phenotyping bottleneck" issue has driven increased research on high through
 
 ## Modern Crop Improvement
 
-In recent years focus has returned to approaching crop improvement from all angles. An example of a breeding approach that integrates many different types of data is physiological breeding. Reynolds and Langridge [-@Reynolds2016] break physiological breeding into 6 parts - crops design, genetic resource exploration, phenotyping, genetic analysis, hybridization and progeny selection, and genetic gain evaluation via multi-location testing. This framework helps describe the purpose of obtaining genomic, phenomic and enviromic data during the current breeding cycle and why dissection of traits, genetically and physiologically, is important for
+<!---In recent years focus has returned to approaching crop improvement from all angles. An example of a breeding approach that integrates many different types of data is physiological breeding. Reynolds and Langridge [-@Reynolds2016] break physiological breeding into 6 parts - crops design, genetic resource exploration, phenotyping, genetic analysis, hybridization and progeny selection, and genetic gain evaluation via multi-location testing. This framework helps describe the purpose of obtaining genomic, phenomic and enviromic data during the current breeding cycle and why dissection of traits, genetically and physiologically, is important for -->
+
+
 
 <!--- Genomics -->
 <!--- Phenomics -->
 <!--- Enviromics -->
 # AI
 
-In recent years, Artificial intelligence (AI) has been increasingly explored as a means to analyze big data. Within crop improvement in the 2020s, the processes of genotyping, phenotyping, and envirotyping a single population can produce dramatically more data then was cumulatively obtained in the breeding process in previous decades. <!--- NGS, phenotyping bottleneck response --> While bottlenecks of traditional methods have been overcome with higher levels of automation achieved with post-NGS sequencing technologies, HTP, and remote sensing, fully exploiting these data in an efficient manor is difficult with prior approaches.  AI is most commonly applied through machine learning which includes such *technologies* as computer vision, neural networks, and deep learning, among others. Machine learning 
+In recent years, Artificial intelligence (AI) has been increasingly explored as a means to analyze big data. Within crop improvement in the 2020s, the processes of genotyping, phenotyping, and envirotyping a single population can produce dramatically more data then was cumulatively obtained in the breeding process in previous decades. <!--- NGS, phenotyping bottleneck response --> While bottlenecks of traditional methods have been overcome with higher levels of automation achieved with post-NGS sequencing technologies, HTP, and remote sensing, fully exploiting these data in an efficient manor is difficult with prior approaches. AI is most commonly applied through machine learning which includes fields like computer vision, neural networks, deep learning, and others. Certain subfields, like those aforementioned, are more commonly referenced than others in conversations revolving around AI and machine learning. However, there is a great deal of overlap between statistical and machine learning [@fig:venndiagram]. <!---Look up real definition--> Any approach that makes a prediction via computation can be condisidered to be machine learning <!--- ... --> For example under this definition, linear models can be considered to be machine learning despite their relative simplicity compared to things like NN and DL.  
+![Caption.](../Images/MLvsStats.svg){#fig:venndiagram}
+
+
+## AI in Crop Improvements
+
+Prior issuess facing crop improvement research revolved around data accumulation. Genotyping methods prior to NGS were laborous and limited quantities of genotypes were achievable. Traditional phenotyping methods are time intensive and sometimes limited by the expertise of evaluators. Envirotyping was difficult to achieve with useful levels of resolution. Considerable progress has been made on these problems by the early 2020s. The post-NGS sequencing technology era has made sequencing whole genomes a feasible genotyping approach. image-based phenotyping and other high throughput techniques generate terabytes of data every growing season. Remote sensing technologies have made observing envirotypes within a single field possible.**transition** However these solutions lend new issues to the field of crop improvement. New issues revolve around the need for approaches which effectively and efficiently analyzing resulting big data; bridging the gap between observed genotypes and observed phenotypes a) yield results that are meaningful biologically (interpretable), b) feasible computationally (efficient), c) have high fidelity to plants represented (accuracy), d) achieves improvement (predictive/useful). **transition**
+
+Achieving improvement while utilizing genomics, phenomics and enviromics requires an integrative approach. A large number of studies have employed genomic selection for this purpose.
 
 # References
