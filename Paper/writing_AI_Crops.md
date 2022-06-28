@@ -92,7 +92,7 @@ Computer vision attempts to derive meaning from images. A computer vision system
 
 <!-- Image Acquisition -->
 
-Image processing can be further divided into pre-processing operations, segmentation, feature extraction, and classification [@Perez-Sanz2017; @Jayas2008]. Image segmentation is important for background and object differentiation. <!-- In plant phenotyping, image segmentation is important for vegetation monitoring, estimation of LAI, plant nutritional status, fractional vegetation cover measurements, growth characteristics, weed detection and crop identification. (get cites from @Coy2016)--> The most popularly used segmentation algorithms in plant phenotyping include threshold [@Zhao2015; @Zhou2017; @Hartmann2011; @Ge2016], watershed [@Jerbi2015], and machine learning algorithms. Thresholding is a simple segmentation method and has been widely used.
+Image processing can be further divided into pre-processing operations, segmentation, feature extraction, and classification [@Perez-Sanz2017; @Jayas2008]. Image segmentation is important for background and object differentiation. <!-- In plant phenotyping, image segmentation is important for vegetation monitoring, estimation of LAI, plant nutritional status, fractional vegetation cover measurements, growth characteristics, weed detection and crop identification. (get cites from @Coy2016)--> Segmentation algorithms in plant phenotyping include threshold [@Zhao2015; @Zhou2017; @Hartmann2011; @Ge2016], edge [@Thendral2014; @Wang2018], region (watershed) [@Jerbi2015], clustering, and deep learning based algorithms [Methods list - @Li2020]. Thresholding is a simple segmentation method and has been widely used with success in greenhouse settings [cite]. However, it is sensitive to noise making this method less suitable for the dynamic backgrounds of images captured in field conditions. Edge-based segmentation is another fast and widely used algorithm [@Li2020] which still can suffer from trade-offs between noise susceptibility and edge imprecision [@Pan2009].
 
 During image processing, other AI algorithms like neural networks, fuzzy logic, and expert systems are often used to achieve computer vision.
 
@@ -102,7 +102,7 @@ Image segmentation
 
 Computer vision has been used for quality monitoring and measuring in cereal, fruit, and vegetable crops [@Jayas2008; @Kondo2010]; crop growth monitoring
 
-Jayas et al. [-@Jayas2008] <!-- Review Article which summarizes work from students of Jayas--> describes computer vision being used to classify morphological, color, textural, features in wheat kernels using a four-layer back-propigation network and statistical classifier algorithm; insect infestation detection using a linear classifier and back-propagation neural network.
+Jayas et al. [-@Jayas2008] <!-- Review Article which summarizes work from students of Jayas--> describes computer vision being used to classify morphological, color, textural, features in wheat kernels using a four-layer back-propagation network and statistical classifier algorithm; insect infestation detection using a linear classifier and back-propagation neural network.
 
 In the quest for automation,
 - see [@Romero2013]
