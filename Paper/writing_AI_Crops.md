@@ -48,12 +48,12 @@ With the increase in genetic technology availability and decrease in cost during
 
 Modern crop improvement has the advantage and challenge of access to large genomic, phenomic and enviromic data sets<!--- genomic, phenomic and enviromic should have been defined in earlier section --> to inform breeding and selection decisions. A single population can now produce dramatically more data then was cumulatively obtained in the breeding process in previous decades. The prior issues of genotyping and phenotyping bottlenecks have been largely overcome with higher levels of automation achieved through approaches like GBS NGS sequencing technologies <!--- more specific -->, HTP, and remote sensing <!--- These should have been mentioned previously -->. However, these solutions and the accompanying "big data" also lend new issues to the field of crop improvement. Fully exploiting "-omic" data in an efficient manor is difficult with prior approaches<!--like...-->. There is now a need for new methods of analysis which effective and efficient in order to continue bridging the gap between observed genotypes and observed phenotypes. AI has the potential to provide diverse solutions to these ends.
 
-# AI
+# AI - Background
 
 Artificial intelligence (AI) is concerned with the process of designing computers that can think and act humanly and rationally [@Russsel2009]. In recent years, AI has been increasingly explored as a means to analyze big data most popularly through machine learning (ML) approaches. However in addition to ML, AI encompasses a number of diverse sub-fields which can can be generally categorized as symbolic or sub-symbolic [@Nilsson1998; @ilkou2020]. 
 
 ## Symbolic AI
-The AI approaches which represent knowledge through physical symbols [@Hoehndorf2017] are described using names like symbolic AI, logical AI, or computationalism [@Hoehndorf2017; @Domingos2016]. Symbolic AI manipulates symbols to apply logical operations to the declarative knowledge the symbols represent in order to deduce consequences of the knowledge [@Hoehndorf2017; @Nilsson1998]. For this reason, symbolic systems are often called rules-based or logic-based. These types of systems are considered to be highly explainable, since knowledge is commonly represented using first order logic rules, like if..then statements, which mimics human cognition [@Nilsson1998; @ilkou2020; @Hoehndorf2017]. The simplest form of AI, the rules-based system, is the predominant type of symbolic system. A rules-based system must be programmed to anticipate the situation-actions (in the form of rules) which lead from input to conclusion [@Jordan2015]. <!---Other examples of symbolic AI include [expert systems, inductive logic programming, and robotic process automation [@] ]--> The rigidity of rules-based systems and the prior knowledge required to define rules are major drawbacks among symbolic AI systems[@ilkou2020, @Hayes1985; @Nilsson1998]. 
+The AI approaches which represent knowledge through physical symbols [@Hoehndorf2017] are described using names like symbolic AI, logical AI, or computationalism [@Hoehndorf2017; @Domingos2016]. Symbolic AI applies logical operations to declarative knowledge represented by symbols. The goal of symbolic AI is to deduce the consequences of the supplied knowledge through symbols and symbol manipulation [@Hoehndorf2017; @Nilsson1998]. For this reason, symbolic systems are often also called rules-based or logic-based systems. First order logic rules, like if..then statements, are commonly used symbols and a highly explainable form of reasoning since it mimics human cognition [@Nilsson1998; @ilkou2020; @Hoehndorf2017]. However, rules must be hard coded by hand so a symbolic system need to be able to anticipate all situations and appropriate actions (in the form of rules) which might lead from input to conclusion [@Jordan2015]. The rigidity of these systems and the need for prior knowledge inorder to define rules are major drawbacks which limit the application of symbolic AI systems in the modern age[@ilkou2020, @Hayes1985; @Nilsson1998]. However as sub-symbolic systems increase in complexity, symbolic algorithms have been revisited for use as a component within a larger sub-symbolic system [@DAvilaGarcez2002]. For that reason, revisiting applications of the most popular types of symbolic systems may be meaningful.
 
 ##### Inductive Logic Programming
 
@@ -71,24 +71,23 @@ Much early AI work used symbolic systems but less focus has been placed on these
 
 ### Sub-symbolic AI
 
-A system that can improve through experience or *learn* yields flexible lacking in a symbolic system [@Libbrecht2015; @Russsel2009; @Liakos2018]. Sub-symbolic AI also called connectionist AI are systems that can learn [@Nilsson1998; @ilkou2020].
+In contrast to symbolic systems, sub-symbolic AI avoids symbols and symbol manipulation. Instead patterns in the form of <!--mathemematical optimization, statistical classifiers, and neural netowrks [@Nilsson1998 via @Wikipedia]--> are established by the system which link input and output variables [@ilkou2020]. Sub-symbolic AI, also called connectionist AI, are systems that can learn [@Nilsson1998; @ilkou2020]. 
+A system that can improve through experience or *learn* yields flexible lacking in a symbolic system [@Libbrecht2015; @Russsel2009; @Liakos2018]. 
 
 #### Machine Learning
 
-At the core of modern AI is machine learning (ML). ML exists as a broad subfield and is generally considered to include any method that makes predictions. Further subdivisions above or below ML in the AI systems architecture could be made perhaps distinguishing ML from other probabilistic prediction methods or subdividing sub-symbolic AI into statistical AI as the parent category of ML, but with the mixing and borrowing of methods from one classification to another, further subdivision may not accurately reflect the current state of the field. 
+At the core of modern AI is machine learning (ML). ML exists as a broad subfield and is generally considered to include any method that makes predictions. Further subdivisions above or below ML in the AI systems architecture could be made perhaps distinguishing ML from other probabilistic prediction methods or subdividing sub-symbolic AI into statistical AI as the parent category of ML, but with the mixing and borrowing of methods from one classification to another, further subdivision may not accurately reflect the current state of the field. Machine learning can be described to exist at the intersection of computer science and statistics (Fig. {@fig:venndiagram}) and thus many statistical models are considered ML when applied with a prediction-centric approach. The field of statistics by comparison puts a greater focus on inference over prediction [@Bzdok2018], but methods shared by the two fields can generally accomplish both. 
 
-ML can be characterized by feedback type, data type <!--- discrete vs continuous --> ....
+![Caption.](../Images/MLvsStats.svg){#fig:venndiagram width=75%}
 
-Machine learning can be considered to be supervised or unsupervised given the system's access to feedback. Supervised learning occurs in two phases, training and testing. During the training phase, predetermined input-response pairs (labeled data) are used as examples and the learning algorithm attempts to formulate function that connect input data to respective labels [@Liakos2018; @MontesinosLopez2022, p.29]. During the testing phase of supervised learning, the learned pattern (trained model) is used to generate label predictions and the accuracy of the predictions can be evaluated against user-defined labels. In this type of system the feedback is considered to be explicit. In unsupervised learning, the absence of preassigned labels for the input data only allows the model to evaluate patterns and prevents prediction accuracy from being evaluated since no correct input-response pairs have been specified. This type of system has no feedback. Systems that utilize both supervised and unsupervised learning are termed semi-supervised.
+It is perhaps more informative to characterize ML by feedback types, data types, other types ... <!--- discrete vs continuous --> 
+
+Machine learning can be considered to be supervised or unsupervised given the system's access to feedback. Supervised learning occurs in two phases, training and testing. During the training phase, predetermined input-response pairs (labeled data) are used as examples and the learning algorithm attempts to formulate functions that connect input data to respective labels [@Liakos2018; @MontesinosLopez2022, p.29]. During the testing phase of supervised learning, the learned pattern (trained model) is used to generate label predictions and the accuracy of the predictions can be evaluated against user-defined labels. In this type of system the feedback is considered to be explicit. In unsupervised learning, the absence of preassigned labels for the input data only allows the model to evaluate patterns and prevents prediction accuracy from being evaluated since no correct input-response pairs have been specified. This type of system has no feedback. Systems that utilize both supervised and unsupervised learning are termed semi-supervised.
 
 Machine learning methods can be further divided by data type. Within supervised learning, regression methods can be used for continuous data and classification methods can be used for categorical data. For unsupervised machine learning, the two common types include clustering and association for {data type 1} and {data type 2} respectively. 
 
-Among the basic regression methods that are relevent for crop selection are two versions of best linear unbiased predictions (BLUPs). As a formulation of ridge regression, rrBLUP includes a design matrix of the SNPs as the relationship matrix for the mixed model [@MontesinosLopez2022]. In cases where the number of SNPs exceeds the number of genotypes, a genome-enabled BLUP (GBLUP) is preferable as in this formulation as relationships are assumed based on the genotypes of the marker profiles [@MontesinosLopez2022]. GBLUP and rrBLUP have been widely used for genomic selection [citations]
+Among the basic regression methods that are relevant for crop selection are two versions of best linear unbiased predictions (BLUPs). As a formulation of ridge regression, rrBLUP includes a design matrix of the SNPs as the relationship matrix for the mixed model [@MontesinosLopez2022]. In cases where the number of SNPs exceeds the number of genotypes, a genome-enabled BLUP (GBLUP) is preferable as in this formulation as relationships are assumed based on the genotypes of the marker profiles [@MontesinosLopez2022]. GBLUP and rrBLUP have been widely used for genomic selection [citations].
 
-
-Machine learning exists at the intersection of computer science and statistics (Fig. {@fig:venndiagram}) and thus many statistical models are considered ML when applied with a prediction-centric approach. The field of statistics by comparison puts a greater focus on inference over prediction [@Bzdok2018], but methods shared by the two fields can generally accomplish both. For this reason
-
-![Caption.](../Images/MLvsStats.svg){#fig:venndiagram width=75%}
 
 ##### Neural Networks
 
@@ -118,11 +117,6 @@ In the quest for automation,
 - see [@Romeo2013]
   - visible spectral index based
   - threshold-based
-
-
-
-
-### Sub-symbolic Systems
 
 #####
 
